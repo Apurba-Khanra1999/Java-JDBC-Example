@@ -51,7 +51,7 @@ public class DeleteFromDB {
                 }
             }
 
-            System.out.println("Data Deleted Successfully . . . \n");
+            System.out.println("Data deleted Successfully . . . \n");
     }
     
 }
